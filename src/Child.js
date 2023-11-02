@@ -10,4 +10,5 @@ function Child({ onChangeColor }) {
   style={{ backgroundColor: "#FFF" }} />);
 }
 
+
 export default Child;
